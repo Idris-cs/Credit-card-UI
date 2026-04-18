@@ -55,7 +55,7 @@ Works on all modern browsers including:
 
 ## Overview
 
-![Credit Card UI](screenshot.png)
+![Credit Card UI](Screenshot.png)
 
 ## License
 
